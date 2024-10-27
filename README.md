@@ -26,6 +26,8 @@ This project is a testament to how embedded systems can address real-world chall
 4. Customize alert thresholds for specific use cases, and monitor water levels with real-time LED and message alerts.
 
 > **Note**: All project code and hardware configurations are available in this repository.
+This project has been a rewarding journey, and I hope it inspires others to leverage technology for impactful solutions. Together, we can build a safer, more resilient future. 💡💙
+
 
 ## 🔖 Tags
 
@@ -33,4 +35,6 @@ This project is a testament to how embedded systems can address real-world chall
 
 ---
 
-This project has been a rewarding journey, and I hope it inspires others to leverage technology for impactful solutions. Together, we can build a safer, more resilient future. 💡💙
+![WhatsApp Image 2023-06-06 at 11 38 37 AM](https://github.com/user-attachments/assets/069230d4-0c6d-4c12-96af-223ba8ea03bd)
+
+![WhatsApp Image 2023-06-06 at 11 38 33 AM](https://github.com/user-attachments/assets/f94b84d3-1e84-4e3e-8b9f-11bcd3780295)
